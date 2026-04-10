@@ -1,6 +1,0 @@
-*.class
-*.log
-bin/
-out/
-.DS_Store
-.idea/
